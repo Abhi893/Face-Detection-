@@ -1,4 +1,4 @@
-# Face-Detection-
+# Face-Detection-using C++
 Face-Detection  using C++ on visual studio 2019 
 Download opencv 
 open studio and create new project
