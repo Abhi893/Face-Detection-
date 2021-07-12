@@ -1,8 +1,9 @@
-# Face-Detection-using C++
-Face-Detection  using C++ on visual studio 2019 
-Download opencv 
-open studio and create new project
-
+# Face-Detection-using C++.
+Face-Detection  using C++ on visual studio 2019 .
+Download opencv .
+open studio and create new project.
+#steps to follows  
+opencv version 3.4.14 
 1]make in debug and 64x
 2]create c++ source file 
 3]open project--> properties
