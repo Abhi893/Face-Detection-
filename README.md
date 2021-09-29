@@ -1,6 +1,7 @@
 # Face-Detection-using C++.
 Face-Detection  using C++ on visual studio 2019 .
 Download opencv .
+Download haarcascade_frontalface_default.xml 
 open studio and create new project.
 #steps to follows  
 opencv version 3.4.14 
